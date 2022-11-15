@@ -24,7 +24,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friche11)](https://github.com/friche11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friche11&layout=compact&theme=dracula)](https://github.com/friche11/github-readme-stats)
 
 <br/>
 
