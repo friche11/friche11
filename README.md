@@ -1,22 +1,72 @@
-### Olá! Meu nome é Victor Friche 👋 
+<br/>
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&size=40&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Victor+Friche;)](https://git.io/typing-svg)
+
+<br/>
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor.friche/)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorfriche)
+<div align="center"> 
+<a href="https://instagram.com/victor.friche" target="_blank">
+<img align="center" height="60" width="60" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+</a>
 
 
-
-### Tecnologias
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
-<img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
-<img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
+<a href="mailto:cmp.1a.vicfriche@gmail.com">
+<img align="center"  height="54" width="54" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
 
 
+<a  href="https://www.linkedin.com/in/victorfriche/" target=_blank>
+<img align="center"  height="55" width="55" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
+
+<br/>
+<br/>
+<br/>
+
+
+## Tecnologias
+
+<div align="center"> 
+ 
+<br/>
+<br/>
+
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+<img  width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
+                                    
+
+
+<br/>
+
+</div>
+
+<br/>
+<br/>
+
+## Atualmente aprendendo
+
+
+<div align="center"> 
+ 
+<br/>
+<br/>
+
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+                             
+
+
+<br/>
 
 
 </div>
@@ -24,10 +74,15 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friche11&layout=compact&theme=dracula)](https://github.com/friche11/github-readme-stats)
+
+ <br/> 
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=friche11&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=friche11&theme=transparent)
+
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=friche11&show_icons=true&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=friche11&theme=transparent)
 
 
+</div>
