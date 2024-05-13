@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&size=40&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Victor+Friche;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&size=40&duration=4000&pause=1500&color=1E90FF&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Victor+Friche;)](https://git.io/typing-svg)
 
 <br/>
 <br/>
